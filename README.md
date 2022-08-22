@@ -1,5 +1,5 @@
 # Net_Printer_Installation
-I create this simple script the will allow you to install a network printer automatically on more than one device.  
+I created this simple script that will allow you to install a network printer automatically on more than one device.  
 
 Instructions 
 Driver_Path-- You will add the right path for the printer drivers 
